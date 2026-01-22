@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack especializado em JavaScript/TypeScript e C#, focado em criar aplicações web e mobile escaláveis e performáticas.
+Desenvolvedor Full Stack especializado em JavaScript/TypeScript e **Java**, focado em criar aplicações web e mobile escaláveis e performáticas.
 
 ## Tecnologias & Ferramentas
 
@@ -14,7 +14,7 @@ Desenvolvedor Full Stack especializado em JavaScript/TypeScript e C#, focado em 
   ### Linguagens de Programação
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
   ### Frontend & Mobile
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,7 +26,7 @@ Desenvolvedor Full Stack especializado em JavaScript/TypeScript e C#, focado em 
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
   ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   
   ### Ferramentas & DevOps
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,5 +71,3 @@ Desenvolvedor Full Stack especializado em JavaScript/TypeScript e C#, focado em 
   
   ### Sempre aberto a colaborações e novos projetos
 </div>
-
-
