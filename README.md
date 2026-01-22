@@ -51,7 +51,8 @@ Desenvolvedor Full Stack especializado em JavaScript/TypeScript e **Java**, foca
 <br/>
 
 <div align="center">
- 
+ <img src="https://streak-stats.vercel.app/?user=viniciochavess&theme=tokyonight" alt="GitHub Streak Stats" />
+
 </div>
 
 ## Entre em Contato
