@@ -38,20 +38,20 @@ Desenvolvedor Full Stack especializado em JavaScript/TypeScript e **Java**, foca
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciochavess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciochavess&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciochavess&theme=tokyonight" alt="viniciochavess" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciochavess&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15" alt="viniciochavess" />
+ 
 </div>
 
 ## Entre em Contato
