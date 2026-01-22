@@ -45,7 +45,7 @@ Desenvolvedor Full Stack especializado em JavaScript/TypeScript e **Java**, foca
 <br/>
 
 <div align="center">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciochavess&theme=tokyonight" />
 </div>
 
 <br/>
