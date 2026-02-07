@@ -63,7 +63,7 @@ Interfaces modernas consumindo APIs REST, com gerenciamento de estado e integra√
 
 ## Estat√≠sticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciochavess&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 <br/>
 
