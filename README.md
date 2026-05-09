@@ -11,6 +11,12 @@ Atualmente direciono minha carreira para o ecossistema **Java e Spring Boot**, a
 
 Gosto de transformar regras de negócio complexas em soluções simples, eficientes e sustentáveis.
 
+# Formação Acadêmica
+
+🎓 **Graduação em Análise e Desenvolvimento de Sistemas** — UNINASSAU
+
+🎓 **Pós-graduação em Arquitetura de Sistemas Distribuídos** — PUC Minas
+
 ## Stack Principal
 
 Java • Spring Boot • JPA/Hibernate • PostgreSQL • Docker • Testes
