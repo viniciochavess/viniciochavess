@@ -59,7 +59,7 @@ Validação e tratamento de erros
 ### ERP (em evolução)
 Sistema modular com autenticação, controle de estoque e organização baseada em casos de uso, priorizando separação de responsabilidades e escalabilidade.
 
-**Stack:** Java, Spring Boot, PostgreSQL, Docker.
+**Stack:** Fastify, React, React Native, PostgreSQL, Docker.
 
 ### Apps Web & Mobile
 Interfaces modernas consumindo APIs REST, com gerenciamento de estado e integração completa com backend.
