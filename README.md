@@ -61,7 +61,7 @@ Sistema modular com autenticação, controle de estoque e organização baseada 
 
 **Stack:** Fastify, React, React Native, PostgreSQL, Docker.
 
-[vinerp](https://vinerp.com.br/)
+Meu erp:  [vinerp](https://vinerp.com.br/)
 
 ### ERP Fase 2
 Priorizando a escalabilidade do ERP, criando microsserviços e melhorando arquitetura.
