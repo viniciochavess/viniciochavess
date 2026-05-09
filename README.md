@@ -56,10 +56,15 @@ Validação e tratamento de erros
 
 ## Projetos em Destaque
 
-### ERP (em evolução)
+### ERP
 Sistema modular com autenticação, controle de estoque e organização baseada em casos de uso, priorizando separação de responsabilidades e escalabilidade.
 
 **Stack:** Fastify, React, React Native, PostgreSQL, Docker.
+
+### ERP Fase 2
+Priorizando a escalabilidade do ERP, criando microsserviços e melhorando arquitetura.
+
+**Stack:** Spring boot, eureka, zuul, React, React Native, PostgreSQL, fastify, docker,  mensageria, kubernetes.
 
 ### Apps Web & Mobile
 Interfaces modernas consumindo APIs REST, com gerenciamento de estado e integração completa com backend.
